@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-  <title>cEdNu Metro - 메인</title>
+  <title>cEdNu Metro - 공지사항</title>
   <meta name="description" content="Svelte demo app" />
 </svelte:head>
 
